@@ -1,0 +1,16 @@
+{
+  "name": "html-tags-validator",
+  "version": "1.0.0",
+  "description": "This checks whether the html file has its tags closed properly",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "html",
+    "tags"
+  ],
+  "author": "Sachindra Ragul",
+  "license": "ISC",
+  "dependencies": {}
+}
