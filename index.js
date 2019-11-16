@@ -65,3 +65,5 @@ htmlValidator.then((result)=>{
 
     }
 })
+
+module.exports = htmlValidator
