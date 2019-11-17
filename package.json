@@ -1,6 +1,6 @@
 {
   "name": "html-tags-validator",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "This checks whether the html file has its tags closed properly",
   "main": "index.js",
   "scripts": {
