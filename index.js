@@ -1,8 +1,8 @@
 const fs = require('fs');
 const path = require('path')
 
-const opening_tags =["html","head","body","title","h1","h2","span","b","div","p","a"];
-const closing_tags = ["/html","/head","/body","/title","/h1","/h2","/span","/b","/div","/p","/a"];  
+const opening_tags =["html","head","body","title","h1","h2","span","b","div","p","a","h3","h4","h5","h6","nav","section","li"];
+const closing_tags = ["/html","/head","/body","/title","/h1","/h2","/span","/b","/div","/p","/a","/h3","/h4","/h5","/h6","/nav","/section","/li"];  
 const pattern = '<(.*?)>';
 let stack = []
 let a
